@@ -92,7 +92,7 @@ print(string_to_lower) # Output: hello, universe!
 
 # 12. upper(): The upper() function is used to convert all characters in a string to uppercase. It returns a new string with all characters converted to uppercase.
 
-string = "Hello, Uniiverse!"
+string = "Hello, Universe!"
 string_to_upper = string.upper()
 print(string_to_upper) # Output: HELLO, UNIVERSE!
 
