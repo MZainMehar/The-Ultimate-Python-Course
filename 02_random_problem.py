@@ -16,3 +16,13 @@ def random_number():
 
 
 print(random_number())
+
+
+
+# Other approach:
+
+def random_number():
+    return random.randrange(1, 101)
+
+
+print(random_number())
