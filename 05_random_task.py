@@ -26,6 +26,18 @@ def print_random_float():
     # round off the number to 2 decimal places
     print(round(random.uniform(0, 100), 1))
 
+    print(round(random.uniform(0, 100), 2))
+
+
+print_random_float()
+
+
+
+
+def print_random_float ():
+    print(random.uniform(0, 100))
+
+    print(round(random.uniform(0, 100), 1))
 
 print_random_float()
 
